@@ -1,0 +1,7 @@
+﻿  segmentation.cpp
+C:\Users\Tima\source\repos\segmentation\segmentation\segmentation.cpp(92,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Tima\source\repos\segmentation\segmentation\segmentation.cpp(92,30): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Tima\source\repos\segmentation\segmentation\segmentation.cpp(101,71): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\Tima\source\repos\segmentation\segmentation\segmentation.cpp(232,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Tima\source\repos\segmentation\segmentation\segmentation.cpp(304,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  segmentation.vcxproj -> C:\Users\Tima\source\repos\segmentation\x64\Debug\segmentation.exe
